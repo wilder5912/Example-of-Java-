@@ -1,9 +1,0 @@
-package exxtra;
-
-import Reactangulo;
-
-public class redondo implements Figura{
-
-public float area() { return (PI*diametro*diametro/4f); }
-
-}
