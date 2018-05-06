@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=id\ code\ npiType
+comment0.target=ApplicationCodeIdType(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getId()
+comment2.params=id
+comment2.target=void\ setId(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getCode()
+comment4.params=code
+comment4.target=void\ setCode(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getNpiType()
+comment6.params=npiType
+comment6.target=void\ setNpiType(java.lang.String)
+numComments=7

@@ -1,0 +1,9 @@
+
+public class Objetoclass {
+ 
+    private static int campo1;
+ 
+    static {
+        campo1 = 10;
+    }
+}

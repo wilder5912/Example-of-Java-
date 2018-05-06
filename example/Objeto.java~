@@ -1,0 +1,13 @@
+ public class Objeto {
+
+    public static int campo1 = inicializaCampo();
+    public int number = 40; 
+    
+    
+    private static int inicializaCampo() {
+        
+        campo1 = 5;
+        return 10;
+    }
+
+}

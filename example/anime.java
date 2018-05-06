@@ -1,0 +1,16 @@
+
+/**
+ * Write a description of class anime here.
+ * 
+ * @author (your name) 
+ * @version (a version number or a date)
+ */
+public class anime implements Figura 
+{
+    public anime(){
+        
+    }
+    public float area(){
+        return 0;
+    }
+}

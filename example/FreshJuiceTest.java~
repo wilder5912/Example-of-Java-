@@ -1,0 +1,8 @@
+public class FreshJuiceTest {
+
+   public static void main(String args[]) {
+    
+       System.out.pritln(ApplicationCodeIdType.GROUP_SOLE_PROPIETOR_ALLIED.getId()); 
+    
+    }
+}

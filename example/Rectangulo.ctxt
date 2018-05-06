@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=lado\ altura
+comment0.target=Rectangulo(float,\ float)
+comment1.params=
+comment1.target=float\ area()
+numComments=2
